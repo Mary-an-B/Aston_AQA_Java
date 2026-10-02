@@ -1,3 +1,5 @@
+package task_1;
+
 public class Dog extends Animal {
     private static int dogCount;
     private static final int MAX_RUN_DISTANCE = 500;

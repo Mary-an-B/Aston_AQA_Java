@@ -1,3 +1,5 @@
+package task_1;
+
 public class Bowl {
     private int foodAmount = 0;
 

@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+public class MyArraySizeException extends Exception {
 
-public class MyArraySizeException {
+    public MyArraySizeException(String message) {
+        super(message);
+    }
 }

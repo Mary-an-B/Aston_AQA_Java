@@ -8,6 +8,9 @@
 *.class
 out/
 target/
+allure-results/
+allure-report/
+.allure/
 
 # Системные файлы
 .DS_Store
